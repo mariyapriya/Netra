@@ -112,3 +112,7 @@ Netra/
 ## About
 
 Netra is an independent personal project, built from scratch by Mariya Damavarapu. It is not affiliated with any current or former employer and contains no employer code.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
